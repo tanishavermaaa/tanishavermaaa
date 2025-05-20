@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/tanishavermaaa/tanishavermaaa/blob/main/assets/laptop-girl.gif" alt="Girl working on laptop animation" width="60%" />
+  <img src=""C:\Users\hp\Downloads\girl-working-on-laptop-animation-download--work--animations-4445871.mp4"" alt="Girl working on laptop animation" width="60%" />
 </p>
 
 
