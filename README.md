@@ -2,7 +2,6 @@
 <h3 align="center">An aspiring Full Stack Developer | Java & MERN Stack Enthusiast</h3>
 
 ---
-<img src="https://github.com/tanishavermaaa/tanishavermaaa/blob/main/assets/girl-working-on-laptop.gif" alt="Girl working on laptop" width="100%" />
 
 ### 💫 About Me
 
