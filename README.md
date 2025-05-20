@@ -2,10 +2,7 @@
 <h3 align="center">An aspiring Full Stack Developer | Java & MERN Stack Enthusiast</h3>
 
 ---
-<p align="center">
-  <img src="C:\Users\hp\Downloads\girl-working-on-laptop-animation-download--work--animations-4445871.mp4" alt="Girl working on laptop animation" width="60%" />
-</p>
-
+<img src="https://github.com/tanishavermaaa/tanishavermaaa/blob/main/assets/girl-working-on-laptop.gif" alt="Girl working on laptop" width="100%" />
 
 ### 💫 About Me
 
