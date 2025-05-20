@@ -7,7 +7,7 @@
 
 🚀 I'm an IT engineering student diving deep into full-stack development and problem solving with Java. I love turning ideas into real-world projects and continuously improving my skills.
 
- 🔧 I'm currently working on<br>- Java (OOP, DSA problems)<br>- MERN Stack <br>- Backend Projects<br>- JavaScript-based web development<br><br> 🤝 I'm looking to collaborate on<br>- Full-stack web websites<br>- Java or DSA-based open-source projects<br><br> 📚 I'm currently learning<br>- React & Tailwind CSS<br>- MongoDB<br>- Git & GitHub workflow<br>- Clean code and project structuring<br><br> 💬 Ask me about<br>- Java (OOPs, basic DSA)<br>- Organizing beginner-friendly projects<br>- Using VS Code and basic debugging<br><br> 💡 Fun fact<br>Even though I started with Java, I love how fast and visual JavaScript development feels — building UI is addictively fun!<br>
+ 🔧 I'm currently working on<br>- Java (OOPs, DSA problems)<br>- MERN Stack <br>- Backend Projects<br>- JavaScript-based web development<br><br> 🤝 I'm looking to collaborate on<br>- Full-stack web websites<br>- Java or DSA-based open-source projects<br><br> 📚 I'm currently learning<br>- React & Tailwind CSS<br>- MongoDB<br>- Git & GitHub workflow<br>- Clean code and project structuring<br><br> 💬 Ask me about<br>- Java (OOPs, basic DSA)<br>- Organizing beginner-friendly projects<br>- Using VS Code and basic debugging<br><br> 💡 Fun fact<br>Even though I started with Java, I love how fast and visual JavaScript development feels — building UI is addictively fun!<br>
 
 
 ## 🌐 Socials:
