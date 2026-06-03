@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Tanisha 👋</h1>
 
 <p align="center">
-  Full-Stack MERN Developer &nbsp;·&nbsp; B.Tech IT @ Galgotias (2026) &nbsp;·&nbsp; Ex-Infosys Intern
+  Full-Stack MERN Developer &nbsp;·&nbsp; Ex-Infosys Intern &nbsp;·&nbsp; B.Tech IT @ GCET (2026) 
 </p>
 
 <p align="center">
@@ -58,6 +58,8 @@ Browser-based interactive quiz with score tracking, timer, and responsive UI.
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishavermaaa&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishavermaaa&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tanishavermaaa&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanishavermaaa&style=flat-square&color=blue" alt="profile views"/>
 </p>
