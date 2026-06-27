@@ -12,7 +12,7 @@
 
 ---
 
-I build full-stack web apps with the MERN stack — focused on clean API design, real-time features, and secure authentication. I've shipped a freelance production platform, interned at Infosys, and enjoy solving problems on LeetCode in my spare time.
+I build full-stack web apps with the MERN stack - focused on clean API design, real-time features, and secure authentication. I've shipped a freelance production platform, interned at Infosys, and enjoy solving problems on LeetCode in my spare time.
 
 ---
 
