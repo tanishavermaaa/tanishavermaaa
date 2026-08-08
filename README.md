@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Tanisha 👋</h1>
 
 <p align="center">
-  Full-Stack MERN Developer &nbsp;·&nbsp; Ex-Infosys Intern &nbsp;·&nbsp; B.Tech IT @ GCET (2026) 
+  Full-Stack MERN Developer &nbsp;·&nbsp; Infosys Trainee &nbsp;·&nbsp; B.Tech IT @ GCET (2026) 
 </p>
 
 <p align="center">
